@@ -1,4 +1,4 @@
-##Smart Content Management System (CMS) using Spring Boot
+## Smart Content Management System (CMS) using Spring Boot
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/rawdog71/Clownfish)
 
